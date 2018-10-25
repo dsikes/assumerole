@@ -1,1 +1,1 @@
-from .FileParser import FileParser
+from .AWSCreds import AWSCreds
